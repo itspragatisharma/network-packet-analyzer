@@ -4,7 +4,7 @@ A command-line tool written in Python that captures live network traffic, decode
 
 ## Why this project
 
-Built to get hands-on with core networking concepts — TCP/IP handshakes, packet structure, and traffic filtering — the same fundamentals used in real network debugging and security monitoring tools.
+Built to strengthen hands-on understanding of TCP/IP networking, packet inspection, protocol analysis, and anomaly detection through real-time traffic capture and analysis.
 
 ## Features
 
@@ -77,6 +77,13 @@ Raw packet capture needs elevated privileges on every OS:
 - Add a simple Flask dashboard to visualize live traffic
 - Extend anomaly detection with additional heuristics (e.g., ICMP flood detection)
 
-## Tech stack
+## Tech Stack
 
-Python, Scapy, socket, argparse, pandas
+- Python
+- Scapy
+- TCP/IP
+- Socket Programming
+- argparse
+- pandas
+- CSV Logging
+- Network Packet Analysis
